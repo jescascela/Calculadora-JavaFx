@@ -4,4 +4,4 @@ Utilizei o tutorial contido no link https://www.youtube.com/watch?v=y1ZaBalVZic 
 
 Fiz pequenas modificações, adicionei algumas funcionalidades e comentei o código para facilitar o entendimento.
 
-Ainda assim é uma calculadora bem primitiva, mas que seve como base para ilustrar alguns conceitos do JavaFX.
+Ainda assim é uma calculadora bem primitiva, mas que serve como base para ilustrar alguns conceitos do JavaFX.
